@@ -1,0 +1,7 @@
+storage:
+  driver: csv
+  path: scripts/btc_8y.csv
+engine:
+  fees: 0.001
+  slippage: 0.001
+workers: 4
